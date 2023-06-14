@@ -1,7 +1,7 @@
 [
   {
-    "organizationName": "exampleOrganization",
-    "projectName": "exampleProject",
+    "organizationName": "Artefacto",
+    "projectName": "sclProject",
     "submissionCategories": [
       {
         "id": "feedback",
@@ -10,17 +10,11 @@
         "emoji": "📣"
       },
       {
-        "id": "bug",
-        "title": "Report a bug",
-        "description": "Found an error?",
-        "emoji": "🐞"
+        "id": "location",
+        "title": "Suggest a location",
+        "description": "Someone or something missing?",
+        "emoji": "📍"
       },
-      {
-        "id": "feature",
-        "title": "Feature Request",
-        "description": "You have an idea for a new feature?",
-        "emoji": "💡"
-      }
     ]
   }
 ]
